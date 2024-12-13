@@ -5,3 +5,6 @@ Multiple classification algorithms were implemented and evaluated for their accu
 The application uses REST API endpoints for secure communication and allows efficient scalability for larger datasets. Visualization techniques such as feature distribution plots and heatmaps have been used to gain insights from the dataset and validate the importance of features. Through the combination of feature-rich analysis, machine learning models, and an intuitive web interface, this project delivers a powerful tool for mitigating phishing and spam threats, which promises a safer online environment for both users and organizations.
 
 
+![phishing image](https://github.com/user-attachments/assets/ae9005aa-5b66-4239-88ad-6673d0546710)
+
+![phising image -2](https://github.com/user-attachments/assets/ed260bdb-39e3-47f5-92e7-8fbb5e936492)
